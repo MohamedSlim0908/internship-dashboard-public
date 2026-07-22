@@ -1,0 +1,24 @@
+# Application Packet Note
+
+- Company: Wabtec Technologies d’inspection Canada inc. / Evident Canada
+- Role: Stagiaire en Développement logiciel pour l'intelligence artificielle
+- Posting URL: ULaval SDP secure offer page; exact offer id not visible in pasted text
+- Application URL: ULaval SDP secure offer page; exact offer id not visible in pasted text
+- Location: Montréal, QC
+- Work model: Hybrid
+- Session: Automne 2026
+- Dates: 2026-09-02 to 2026-12-18
+- Deadline: not visible in pasted posting
+- Required documents: CV, lettre de présentation, relevé de notes
+- Status: packet drafted and verified; ready for human review
+- Last action: tailored resume and cover letter PDFs built; posting evidence and answer drafts saved; tracker/dashboard row prepared
+- Next action: upload CV PDF, cover-letter PDF, and transcript in ULaval SDP; Momo must verify admissibility, transcript, consent/attestation fields, and final submit
+- Fit score: 90
+- Tailored resume: /Users/momoslim/hermes -internship finder /applications/wabtec-evident-ai-software-intern-montreal-fall-2026/tailored-cv.pdf
+- Tailored resume source: /Users/momoslim/hermes -internship finder /applications/wabtec-evident-ai-software-intern-montreal-fall-2026/tailored-cv.tex
+- Cover letter: /Users/momoslim/hermes -internship finder /applications/wabtec-evident-ai-software-intern-montreal-fall-2026/cover-letter.pdf
+- Cover letter source: /Users/momoslim/hermes -internship finder /applications/wabtec-evident-ai-software-intern-montreal-fall-2026/cover-letter.tex
+- Posting evidence: /Users/momoslim/hermes -internship finder /applications/wabtec-evident-ai-software-intern-montreal-fall-2026/posting-evidence.md
+- Application answers: /Users/momoslim/hermes -internship finder /applications/wabtec-evident-ai-software-intern-montreal-fall-2026/application-answers.md
+- Packet folder: /Users/momoslim/hermes -internship finder /applications/wabtec-evident-ai-software-intern-montreal-fall-2026
+- Notes: Strong AI/software fit. Emphasize Python, VoiceBubble MLX Whisper/Claude integration, multi-agent orchestrator, C++/ML coursework, Agile/product collaboration, and fast ramp-up on PyTorch/computer vision/model deployment without overstating direct production PyTorch experience.
