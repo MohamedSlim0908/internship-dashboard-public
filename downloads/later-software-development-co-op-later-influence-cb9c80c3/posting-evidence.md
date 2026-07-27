@@ -1,27 +1,21 @@
-# Posting Evidence — Later Software Development Co-op (React + Node/NestJS + Agentic Development)
-
-Live recheck: 2026-07-14T02:02:38Z
-Source URL: https://job-boards.greenhouse.io/later/jobs/8621762002
-Application URL: https://job-boards.greenhouse.io/later/jobs/8621762002
-HTTP status: 200 (Greenhouse posting readable)
-
-## Verified posting facts
+# Posting evidence — Later Software Development Co-op (Later Influence)
 
 - Company: Later
-- Role: Software Development Co-op (React + Node/NestJS + Agentic Development)
+- Role: Software Development Co-op (Later Influence)
 - Location: Vancouver, British Columbia, Canada
-- Work hints: posting includes `#LI-Hybrid` and `#LI-Remote`; Later says positions are posted in locations where candidates may be located and some roles are fully remote.
-- Compensation: $4,000 per month.
-- Role focus: React front-end features, Node/NestJS backend endpoints, first-/third-party social API integrations, ReactQuery/TanStack Query data fetching, agentic development practices, model/tool workflows, and ML-powered data classification.
-- Requirements: currently pursuing CS/Engineering/related degree; JavaScript/TypeScript coursework or project experience; React applications; Node.js familiarity; REST APIs/JSON/asynchronous programming; external APIs; curiosity about agentic development/LLM workflows/tool-calling; model classification/tagging/inference interest.
-- Application form asks for resume/CV, optional cover letter, LinkedIn profile, culture/motivation answer, salary expectations, Canadian work authorization, and whether the applicant is currently enrolled in a co-op program at SFU or UBC.
+- Posting URL: https://job-boards.greenhouse.io/later/jobs/8643138002
+- Application URL: https://job-boards.greenhouse.io/later/jobs/8643138002
+- Live recheck: 2026-07-27T23:56:55Z
+- Result: Live Greenhouse page returned HTTP 200 and showed the exact title and apply form.
 
-## Candidate fit facts available
+## Relevant posting facts visible on live page
 
-- Mohamed is a Laval University Computer Science student.
-- Authorized to work in Canada; no sponsorship needed per profile.
-- Verified skills/projects include React 19, JavaScript, Node.js/Express, REST APIs, PostgreSQL, Redis, Socket.IO, Docker, Claude Agent SDK, prompt engineering, and full-stack product work on Mafhoum.
+Later describes the role as a Software Development Co-op student role on the Later Influence engineering team. The posting says the co-op contributes to production backend and frontend features, collaborates with engineers/product/design partners, writes clean/tested/documented code, participates in code reviews and Agile ceremonies, debugs reliability/scalability/performance issues, learns architecture/cloud/scalable application design, and leverages AI-assisted development tools.
+
+Required/desired skills visible on the page include at least one modern language such as TypeScript, JavaScript, Java, C#, Python, or Go; algorithms/data structures/software design fundamentals; relational databases and SQL; Git; cloud exposure; React as an asset; analytical/problem-solving and communication skills. Bonus skills include TypeScript/Node.js, React, PostgreSQL/MySQL, REST APIs, Docker/Kubernetes, AWS, CI/CD, automated testing, and personal/open-source projects.
+
+Compensation shown: $4,000 per month. Work/location section lists offices in Boston, Vancouver BC, and Vancouver WA, with select positions open to remote candidates. The job tags include #LI-Hybrid and #LI-Remote.
 
 ## Blocker
 
-Stopped before drafting a tailored CV or cover letter because the application form asks: `Are you currently enrolled in a co-op program at SFU or UBC?` Candidate profile verifies Laval University only and leaves co-op eligibility blank. Do not answer or draft as eligible until Momo confirms whether this role accepts Laval/non-SFU/non-UBC applicants or whether he has applicable co-op-program eligibility.
+The Greenhouse application form includes the required question: "Are you currently enrolled in a co-op program at SFU or UBC?" Candidate profile verifies Laval University and leaves co-op eligibility blank. Because this is a school-specific eligibility question, the packet pipeline stopped before drafting a tailored CV or cover letter and marked the role as blocked for human review instead of guessing.
